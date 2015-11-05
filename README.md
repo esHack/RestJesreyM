@@ -11,7 +11,7 @@ Following tasks are completed
 
 1. Developed Rest services to get and post the data to database.
 2. An additional column for VAT is added.
-3. Added an additional field for VAT which calculates VAT automatically as user enters his expense.
+3. Added an additional field for VAT which calculates VAT automatically as user enters his expense. (For Extra credits  &#9786; !!)
 4. Number validation for Amount entered by user. (requires HTML5)
 
 Deployment Steps
