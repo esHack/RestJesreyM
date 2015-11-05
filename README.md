@@ -1,6 +1,6 @@
 # RestJesreyM
 
-I choose to use Jersey for developing Rest services, MySQL, Tomcat and Hibernate for database operations.
+I choose to use Jersey for developing Rest services, MySQL, Tomcat, Maven and Hibernate for database operations.
 
 All the frontend html/js files are included in RestJesreyM\src\main\webapp\pages folder.
 
