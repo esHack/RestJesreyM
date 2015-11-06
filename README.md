@@ -34,3 +34,6 @@ CREATE TABLE  `myspace`.`expense` (
 ) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=latin1;</i></p>
 
 
+And the URL for the project is..
+
+  <a href="http://localhost:8080/RestJerseyM/pages">http://localhost:8080/RestJerseyM/pages</a>
