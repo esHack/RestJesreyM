@@ -37,3 +37,7 @@ CREATE TABLE  `myspace`.`expense` (
 And the URL for the project is..
 
   <a href="http://localhost:8080/RestJerseyM/pages">http://localhost:8080/RestJerseyM/pages</a>
+  
+  and project will look like
+  
+ <img src="http://s8.postimg.org/3vobpv7px/Alchemy.jpg" >
